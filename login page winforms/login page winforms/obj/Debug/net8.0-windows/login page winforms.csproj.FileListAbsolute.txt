@@ -1,0 +1,16 @@
+C:\Users\Aytac\source\repos\login page winforms\login page winforms\obj\Debug\net8.0-windows\login_page_winforms.Login.resources
+C:\Users\Aytac\source\repos\login page winforms\login page winforms\obj\Debug\net8.0-windows\login page winforms.csproj.GenerateResource.cache
+C:\Users\Aytac\source\repos\login page winforms\login page winforms\obj\Debug\net8.0-windows\login page winforms.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aytac\source\repos\login page winforms\login page winforms\obj\Debug\net8.0-windows\login page winforms.AssemblyInfoInputs.cache
+C:\Users\Aytac\source\repos\login page winforms\login page winforms\obj\Debug\net8.0-windows\login page winforms.AssemblyInfo.cs
+C:\Users\Aytac\source\repos\login page winforms\login page winforms\obj\Debug\net8.0-windows\login page winforms.csproj.CoreCompileInputs.cache
+C:\Users\Aytac\source\repos\login page winforms\login page winforms\bin\Debug\net8.0-windows\login page winforms.exe
+C:\Users\Aytac\source\repos\login page winforms\login page winforms\bin\Debug\net8.0-windows\login page winforms.deps.json
+C:\Users\Aytac\source\repos\login page winforms\login page winforms\bin\Debug\net8.0-windows\login page winforms.runtimeconfig.json
+C:\Users\Aytac\source\repos\login page winforms\login page winforms\bin\Debug\net8.0-windows\login page winforms.dll
+C:\Users\Aytac\source\repos\login page winforms\login page winforms\bin\Debug\net8.0-windows\login page winforms.pdb
+C:\Users\Aytac\source\repos\login page winforms\login page winforms\obj\Debug\net8.0-windows\login page winforms.dll
+C:\Users\Aytac\source\repos\login page winforms\login page winforms\obj\Debug\net8.0-windows\refint\login page winforms.dll
+C:\Users\Aytac\source\repos\login page winforms\login page winforms\obj\Debug\net8.0-windows\login page winforms.pdb
+C:\Users\Aytac\source\repos\login page winforms\login page winforms\obj\Debug\net8.0-windows\login page winforms.genruntimeconfig.cache
+C:\Users\Aytac\source\repos\login page winforms\login page winforms\obj\Debug\net8.0-windows\ref\login page winforms.dll
